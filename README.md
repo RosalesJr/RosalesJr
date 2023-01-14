@@ -1,4 +1,4 @@
-# Luis Rosales
+# Luis Rosales 🚀
 
 **`Software Engineer and Web Devloper`**
 
@@ -24,7 +24,10 @@ Full-stack software developer with an active secret clearance and a US Army vete
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalesJr&show_icons=true&theme=gruvbox)
+<a href="https://github.com/RosalesJr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RosalesJr&show_icons=true&theme=gruvbox" />
+</a>
+
 
 <!--
 **RosalesJr/RosalesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

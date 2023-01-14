@@ -2,7 +2,7 @@
 
 <!-- <pre align="center"> -->
 <center>
-<code align="center">Software Engineer and Web Devloper</code>
+<code>Software Engineer and Web Devloper</code>
   </center>
 <!-- </pre> -->
 <!-- **`Software Engineer and Web Devloper`** -->

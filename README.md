@@ -24,7 +24,7 @@ Full-stack software developer with an active secret clearance and a US Army vete
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosalesJr&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats-rosalesjr.vercel.app//api?username=RosalesJr&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RosalesJr&theme=gruvbox&border_radius=4.5) -->
 

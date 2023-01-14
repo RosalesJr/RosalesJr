@@ -25,7 +25,7 @@ Full-stack software developer with an active secret clearance and a US Army vete
 
 #
 
-![GitHub stats](https://github-readme-stats-rosalesjr.vercel.app//api?username=RosalesJr&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats-rosalesjr.vercel.app//api?username=RosalesJr&show_icons=true&theme=great-gatsby)
 
 ### 💬 [Reach Out](https://theluisrosales.com/)
 

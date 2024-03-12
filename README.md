@@ -5,7 +5,7 @@
   </div>
 
 
-Full-stack software developer with an active secret clearance and a US Army veteran of 9 years. I am a dedicated lifelong learner and team player. Experience in successfully leading teams to accomplish ambitious goals, expertise in management, team building, and effective communication. Deadline and detail-oriented, mission-focused, and capable of handling multiple time-critical tasks simultaneously. Having a background in turbine and diesel engine maintenance, I have an eye for troubleshooting and diagnosing complex operations. My journey in programming began due to my passion for solving intricate problems and building new products to solve real-world issues. If the opportunity knocks, I plan to bring these skills to any open internships or software developer positions.
+Full-stack software developer with an active secret clearance and a US Army veteran of 9 years. I am a dedicated lifelong learner and team player. Experience in successfully leading teams to accomplish ambitious goals, expertise in management, team building, and effective communication. Deadline and detail-oriented, mission-focused, and capable of handling multiple time-critical tasks simultaneously. Having a background in turbine and diesel engine maintenance, I have an eye for troubleshooting and diagnosing complex operations. My journey in programming began due to my passion for solving intricate problems and building new products to solve real-world issues. If the opportunity knocks, I plan to bring these skills to any open internships or software developer positions!
 
 ---
 

@@ -30,10 +30,10 @@ Full-stack software developer with an active secret clearance and a US Army vete
 #
 
 <a href="https://github.com/RosalesJr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark" />
+  <img align="left-center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/RosalesJr/top-langs">
-  <img align="center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app" />
+  <img align="right-center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app" />
 </a>
 
 ### 💬 [Reach Out](https://theluisrosales.com/)

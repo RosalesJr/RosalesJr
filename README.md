@@ -29,15 +29,21 @@ Full-stack software developer with an active secret clearance and a US Army vete
 
 #
 
-![GitHub stats](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app)
-### 💬 [Reach Out](https://theluisrosales.com/)
+<a href="https://github.com/RosalesJr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/RosalesJr/top-langs">
+  <img align="center" src="https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app" />
+</a>
 
+### 💬 [Reach Out](https://theluisrosales.com/)
 
 
 <!--
 **RosalesJr/RosalesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![GitHub stats](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

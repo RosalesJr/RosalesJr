@@ -25,7 +25,6 @@ Full-stack software developer with an active secret clearance and a US Army vete
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -45,9 +44,8 @@ Full-stack software developer with an active secret clearance and a US Army vete
 
 <!--
 **RosalesJr/RosalesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-![GitHub stats](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app//api?username=RosalesJr&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app/api/top-langs/?username=RosalesJr&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github-readme-stats-git-master-rosalesjrs-projects.vercel.app)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

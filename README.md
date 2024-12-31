@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Luis Rosales </h1>
+<h1 align="center">  Luis Rosales </h1>
 
 <div align="center">
 :gear: <code text-align: center>Software Engineer</code> :robot:

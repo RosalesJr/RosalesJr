@@ -5,20 +5,20 @@
   </div>
 
 
-Full-stack software developer with an active secret clearance and a US Army veteran of 9 years. I am a dedicated lifelong learner and team player. Experience in successfully leading teams to accomplish ambitious goals, expertise in management, team building, and effective communication. Deadline and detail-oriented, mission-focused, and capable of handling multiple time-critical tasks simultaneously. Having a background in turbine and diesel engine maintenance, I have an eye for troubleshooting and diagnosing complex operations. My journey in programming began due to my passion for solving intricate problems and building new products to solve real-world issues. I also use arch btw!!!😂
+Full-stack software developer with an active secret clearance and a US Army veteran of 9 years. I am a dedicated lifelong learner and team player. Experience in successfully leading teams to accomplish ambitious goals, expertise in management, team building, and effective communication. Deadline and detail-oriented, mission-focused, and capable of handling multiple time-critical tasks simultaneously. Having a background in turbine and diesel engine maintenance, I have an eye for troubleshooting and diagnosing complex operations. My journey in programming began due to my passion for solving intricate problems and building new products to solve real-world issues. I also use arch btw!!! With a side of Kali😂
 
 ---
 
 ### 🔧 Languages and Tools
 
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
